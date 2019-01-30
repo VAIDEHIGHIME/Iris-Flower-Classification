@@ -13,11 +13,11 @@ Libraries used:Numpy,Tkinter,Matplotlib,etc
 
 ![Alt text](input.png?raw=true "Input")
 
-#### The model predicts the category
+### The model predicts the category
 
 ![Alt text](output.png?raw=true "Output")
 
-####Error verses No of epochs 
+### Error verses No of epochs 
 
 ![Alt text](errorgraph.png?raw=true "error vs epoch")
 
