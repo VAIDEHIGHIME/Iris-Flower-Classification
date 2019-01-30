@@ -21,5 +21,5 @@ Libraries used:Numpy,Tkinter,Matplotlib,etc
 
 ![Alt text](errorgraph.png?raw=true "Screen-Shot")
 
-###### Also Created A JAVA version
-here
+###### Also developed A [JAVA](https://github.com/VAIDEHIGHIME/MultiLayerPerceptron) version
+
