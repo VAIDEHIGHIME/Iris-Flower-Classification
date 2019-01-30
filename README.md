@@ -11,13 +11,13 @@ Libraries used:Numpy,Tkinter,Matplotlib,etc
 
 ### A GUI to input the parameters like sepal,petal dimensions
 
-![Alt text](input.png?raw=true "Input")
+![Alt text](input.png?raw=true "Screen-Shot")
 
 ### The model predicts the category
 
-![Alt text](output.png?raw=true "Output")
+![Alt text](output.png?raw=true "Screen-Shot")
 
 ### Error verses No of epochs 
 
-![Alt text](errorgraph.png?raw=true "error vs epoch")
+![Alt text](errorgraph.png?raw=true "Screen-Shot")
 
