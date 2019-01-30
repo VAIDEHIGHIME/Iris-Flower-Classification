@@ -6,7 +6,7 @@ Libraries used:Numpy,Tkinter,Matplotlib,etc
 ```
 
 
-This are some screen shots from the Implemented Project
+Screen shots :
 =============================================================
 ```A GUI to input the parameters like sepal,petal dimensions```
 
