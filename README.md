@@ -1,4 +1,4 @@
-#Iris Flower Classification
+Iris Flower Classification
 =============================
 ```
 Implemented a 2 layer fully connected Neural Network for classifying the Iris flower category from scratch in python  
@@ -7,7 +7,7 @@ Libraries used:Numpy,Tkinter,Matplotlib,etc
 ================================
 
 
-#This are some screen shots from the Implemented Project
+This are some screen shots from the Implemented Project
 =============================================================
 ```A GUI to input the parameters like sepal,petal dimensions```
 ==================================================================
